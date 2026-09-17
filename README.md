@@ -24,18 +24,18 @@ universo-marvel-dc/
 ├── backend/
 ├── frontend/
 ├── database/
-│   ├── 01_universo_principal.sql
-│   ├── 02_updates_universo.sql
-│   └── 03_consultas_universo.sql
+│   ├── principal_Universo.sql
+│   ├── updates_Universo.sql
+│   └── consultas_Universo.sql
 │
 └── README.md
 database/
 
 Contém os arquivos SQL utilizados durante o desenvolvimento do banco de dados.
 
-01_universo_principal.sql — estrutura e dados principais do banco.
-02_updates_universo.sql — alterações e atualizações realizadas durante o desenvolvimento.
-03_consultas_universo.sql — consultas SQL desenvolvidas para explorar e analisar os dados.
+principal_Universo.sql — estrutura e dados principais do banco.
+updates_Universo.sql — alterações e atualizações realizadas durante o desenvolvimento.
+consultas_Universo.sql — consultas SQL desenvolvidas para explorar e analisar os dados.
 backend/
 
 Área destinada ao desenvolvimento futuro do backend da aplicação.
